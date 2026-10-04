@@ -1,4 +1,15 @@
-cves/2026/105xxx/CVE-2026-105123.json
-cves/2026/105xxx/CVE-2026-105124.json
+cves/2026/100xxx/CVE-2026-100630.json
+cves/2026/103xxx/CVE-2026-103111.json
+cves/2026/105xxx/CVE-2026-105096.json
+cves/2026/105xxx/CVE-2026-105097.json
+cves/2026/105xxx/CVE-2026-105098.json
+cves/2026/105xxx/CVE-2026-105125.json
+cves/2026/105xxx/CVE-2026-105126.json
+cves/2026/105xxx/CVE-2026-105127.json
+cves/2026/105xxx/CVE-2026-105128.json
+cves/2026/105xxx/CVE-2026-105129.json
+cves/2026/105xxx/CVE-2026-105130.json
+cves/2026/105xxx/CVE-2026-105131.json
+cves/2026/88xxx/CVE-2026-88779.json
 cves/delta.json
 cves/deltaLog.json

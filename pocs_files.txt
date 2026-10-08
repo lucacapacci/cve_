@@ -1,1 +1,3 @@
-msf_metadata.json
+data_single/2022/CVE-2022-27925.json
+data_years/2022.json
+nuclei_cves.json

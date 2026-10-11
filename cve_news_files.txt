@@ -1,3 +1,2 @@
-cves/2026/CVE-2026-105133.json
-cves/2026/CVE-2026-105134.json
+cves/2026/CVE-2026-21589.json
 news/2026/10/2026-10-10.json

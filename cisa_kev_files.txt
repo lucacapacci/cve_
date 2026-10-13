@@ -1,5 +1,6 @@
 cisa_kev.csv
 data_groups/cisa_kev_2026_1.csv
+data_groups/cisa_kev_2026_9.csv
 data_single/2026/CVE-2026-104935.csv
-data_single/2026/CVE-2026-12569.csv
+data_single/2026/CVE-2026-96951.csv
 data_years/cisa_kev_2026.csv

@@ -1,5 +1,5 @@
-cves/2024/CVE-2024-47575.json
-cves/2026/CVE-2026-0322.json
-cves/2026/CVE-2026-104935.json
+cves/2026/CVE-2026-108398.json
 cves/2026/CVE-2026-96951.json
+cves/2026/CVE-2026-97229.json
 news/2026/10/2026-10-14.json
+news/2026/10/2026-10-15.json

@@ -1,4 +1,2 @@
-2025/CVE-2025-55640.json
-2026/CVE-2026-109701.json
-2026/CVE-2026-17591.json
+2026/CVE-2026-85977.json
 last_sync_sha.txt

@@ -1,9 +1,5 @@
-data_single/2026/CVE-2026-103956.json
-data_single/2026/CVE-2026-109618.json
-data_single/2026/CVE-2026-110372.json
-data_single/2026/CVE-2026-12800.json
-data_single/2026/CVE-2026-14870.json
-data_single/2026/CVE-2026-85097.json
-data_single/2026/CVE-2026-85714.json
+data_single/2026/CVE-2026-88771.json
+data_single/2026/CVE-2026-88772.json
+data_single/2026/CVE-2026-88773.json
 data_years/2026.json
-nuclei_cves.json
+msf_metadata.json

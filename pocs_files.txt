@@ -1,11 +1,1 @@
-data_single/2025/CVE-2025-58443.json
-data_single/2026/CVE-2026-16535.json
-data_single/2026/CVE-2026-56062.json
-data_single/2026/CVE-2026-76460.json
-data_single/2026/CVE-2026-82901.json
-data_single/2026/CVE-2026-89026.json
-data_single/2026/CVE-2026-89079.json
-data_single/2026/CVE-2026-90817.json
-data_years/2025.json
-data_years/2026.json
-nuclei_cves.json
+edb_exploits.csv

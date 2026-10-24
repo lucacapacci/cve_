@@ -1,1 +1,3 @@
-edb_exploits.csv
+data_single/2026/CVE-2026-18110.json
+data_years/2026.json
+nuclei_cves.json

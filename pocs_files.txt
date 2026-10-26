@@ -1,3 +1,11 @@
-data_single/2010/CVE-2010-1428.json
-data_years/2010.json
+data_single/2026/CVE-2026-102782.json
+data_single/2026/CVE-2026-102878.json
+data_single/2026/CVE-2026-11565.json
+data_single/2026/CVE-2026-116067.json
+data_single/2026/CVE-2026-17540.json
+data_single/2026/CVE-2026-59707.json
+data_single/2026/CVE-2026-9062.json
+data_single/2026/CVE-2026-93485.json
+data_single/2026/CVE-2026-97359.json
+data_years/2026.json
 nuclei_cves.json

@@ -1,6 +1,1 @@
-data_single/2026/CVE-2026-105134.json
-data_single/2026/CVE-2026-116205.json
-data_single/2026/CVE-2026-116485.json
-data_single/2026/CVE-2026-18051.json
-data_years/2026.json
-nuclei_cves.json
+msf_metadata.json

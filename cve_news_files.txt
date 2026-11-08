@@ -1,4 +1,3 @@
-cves/2016/CVE-2016-6210.json
-cves/2023/CVE-2023-20198.json
-cves/2026/CVE-2026-123158.json
-news/2026/11/2026-11-07.json
+cves/2026/CVE-2026-111560.json
+cves/2026/CVE-2026-116606.json
+news/2026/11/2026-11-08.json
